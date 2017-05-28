@@ -1,6 +1,6 @@
 # Jiro Plugin
 
-二郎言語のためのSyntax Highlight、補完が出来るようになります。
+二郎言語をIntelliJで使用する際に、Syntax Highlight、補完が出来るようになります。
 
 ## Import
 `File > Import Settings...`を選択し、`jiro-plugin.jar`をimportします。  
