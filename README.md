@@ -5,6 +5,7 @@
 ## Import
 `File > Import Settings...`を選択し、`jiro-plugin.jar`をimportします。  
 `Preferences`で`Colors & Fonts`、`Live Template`、`File Types`に二郎っぽいファイルが追加されていることが確認できたら、完了です。  
+（`jiro-plugin.jar`以外のファイルは個々の設定ファイルです。全部入れたくなければそれを使ってくださいな。）
 
 ## Example
 `switch`を入力すると、以下が出力されるようになります。
